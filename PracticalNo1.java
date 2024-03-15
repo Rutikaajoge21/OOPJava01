@@ -1,5 +1,5 @@
 /* Aim:- Practical No.1
-Author:- Rutika Sharad Joge
+Author:- Vishranti Meshram
 Version:- 1.0
 Date:- 30 Jan 2024
 
